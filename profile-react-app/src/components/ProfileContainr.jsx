@@ -22,5 +22,4 @@ function ProfileContainr(){
         </div>
     );
 }
-
 export default ProfileContainr;

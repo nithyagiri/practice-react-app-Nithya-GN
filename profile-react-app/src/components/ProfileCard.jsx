@@ -8,5 +8,4 @@ function ProfileCard({name, age, bio}){
         <p>bio: {bio}</p>;
      </div>
 }
-
 export default ProfileCard;
